@@ -7,7 +7,7 @@ A tablet-friendly Italian course for a family trip to Florence and Tuscany.
 - 14 daily lessons with 79 phrase cards
 - Italian pronunciation through the device’s speech synthesis, with a slower option
 - Recall practice, speaking scenarios, and daily quizzes
-- Searchable travel phrasebook and hazelnut allergy card
+- Searchable travel phrasebook
 - Progress saved locally in the current browser (not synced between devices)
 
 ## Run
